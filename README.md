@@ -52,11 +52,11 @@ All above features measured in kg/$m^3$
 ## 4. Results
 
 #### Feature correlation
-![Feature correlation](https://github.com/ShivangiRastogi1/Concrete-Compressive-Strength-Prediction-Machine-Learning/imgs/corr.png)
+![Feature correlation](https://github.com/ShivangiRastogi1/Concrete-Compressive-Strength-Prediction-Machine-Learning/blob/main/imgs/corr.png)
 #### Feature importance
-![Feature importance](https://github.com/ShivangiRastogi1/Concrete-Compressive-Strength-Prediction-Machine-Learning/imgs/feat_imp.png)
+![Feature importance](https://github.com/ShivangiRastogi1/Concrete-Compressive-Strength-Prediction-Machine-Learning/blob/main/imgs/feat_imp.png)
 #### Final Comparison
-![Final Comparison](https://github.com/ShivangiRastogi1/Concrete-Compressive-Strength-Prediction-Machine-Learning/imgs/comparision.png)
+![Final Comparison](https://github.com/ShivangiRastogi1/Concrete-Compressive-Strength-Prediction-Machine-Learning/blob/main/imgs/comparision.png)
 
 
 ## 5. References
