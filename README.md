@@ -7,7 +7,7 @@ Concrete is the most important material in civil engineering. The concrete compr
 Data science is the answer to this issue. In order to forecast compressive strength, we will study a dataset of concrete compressive strength and develop machine learning models. It could be possible to create a combination of elements that produces a high Strength by utilizing machine learning to anticipate the strength.
 
 
-Please refer [*Concrete_Compressive_Strength_Prediction.ipynb*](https://github.com/ShivangiRastogi1/Concrete-Compressive-Strength-Prediction-Machine-Learning/blob/main/Concrete_Compressive_Strength_Prediction.ipynb.ipynb) for code.
+Please refer [*Concrete_Compressive_Strength_Prediction.ipynb*](https://github.com/ShivangiRastogi1/Concrete-Compressive-Strength-Prediction-Machine-Learning/blob/main/Concrete_Compressive_Strength_Prediction_ipynb.ipynb) for code.
 
 ## 1. Problem Statement
 Predicting Compressive Strength of Concrete given its age and quantitative measurements of ingredients.
@@ -55,6 +55,8 @@ All above features measured in kg/$m^3$
 ![Feature correlation](https://github.com/ShivangiRastogi1/Concrete-Compressive-Strength-Prediction-Machine-Learning/blob/main/imgs/corr.png)
 #### Feature importance
 ![Feature importance](https://github.com/ShivangiRastogi1/Concrete-Compressive-Strength-Prediction-Machine-Learning/blob/main/imgs/feat_imp.png)
+#### Feature Coefficient
+![Feature Coefficient](https://github.com/ShivangiRastogi1/Concrete-Compressive-Strength-Prediction-Machine-Learning/blob/main/imgs/Feature_Coefficient.png)
 #### Final Comparison
 ![Final Comparison](https://github.com/ShivangiRastogi1/Concrete-Compressive-Strength-Prediction-Machine-Learning/blob/main/imgs/comparision.png)
 
